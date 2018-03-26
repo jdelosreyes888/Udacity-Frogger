@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+
+.instructions {
+    width: 700px;
+    font-size: 18px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+h1 {
+    padding: 0;
+    margin: 0 auto;
+    font-size: 25px;
+}
+
+p {
+    padding: 0;
+    margin: 2px auto;
+}
